@@ -1,6 +1,7 @@
 # Dynamic Weekly Production Performance Dashboard (HEXA_Field)
-Toolstack: Microsoft Excel (Power Query, Pivot Tables & Dynamic Visuals) 
-Industry: Oil & Gas / Upstream Petroleum Production Analytics
+**Toolstack:** Microsoft Excel (Power Query, Pivot Tables & Dynamic Visuals) 
+
+**Industry:** Oil & Gas / Upstream Petroleum Production Analytics
 
 ## Executive Summary & Business Problem
 Upstream petroleum production monitoring requires rapid identification of volume variances, deferment drivers, and production trends across hydrocarbon phases (Oil/Condensate, Gas, and Water).\
